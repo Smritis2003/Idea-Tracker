@@ -7,12 +7,6 @@ Idea Tracker is a full-stack, AI-powered platform designed for creators, develop
 
 ---
 
-## 🌐 Live Demo
-
-🔗 
-
-Use the following test credentials:
-
 
 **Admin**
 - ✉️ Email: `admin@gmail.com`
