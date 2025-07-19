@@ -1,6 +1,6 @@
 
 
-# 🚀 Idea Tracker — AI-Powered Dashboard to Manage Ideas
+# 🚀 Idea Tracker-AI-Powered Dashboard to Manage Ideas
 
 Idea Tracker is a full-stack, AI-powered platform designed for creators, developers, and entrepreneurs to brainstorm, organize, and launch their ideas. With seamless tools for AI-assisted idea generation, categorization, feedback, and progress tracking — it’s your personal startup lab, all in one beautiful dashboard. Whether you’re in the raw stage or ready to launch, ideaForge helps bring clarity and momentum to your innovation journey.
 
