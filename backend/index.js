@@ -48,5 +48,6 @@ app.use((err, req, res, next) => {
 });
 
 //db connection
+//db connections under the statemen
 connectDB();
 app.listen(process.env.PORT, () => {});
